@@ -1,0 +1,12 @@
+{
+  "name": "RepCounter",
+  "slug": "repcounter",
+  "version": "0.1.0",
+  "description": "Minimalistische workout- en reptracker met PPL-workouts, timestamp-logging, progressiegrafieken en PR-advies.",
+  "preview": "docs/previews/latest.svg",
+  "start_command": "Start RepCounter.bat",
+  "default_port": 4173,
+  "health_url": "http://127.0.0.1:4173/health.json",
+  "framework": "vite-react",
+  "deployment": "vercel"
+}
